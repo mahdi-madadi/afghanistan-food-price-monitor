@@ -17,6 +17,7 @@ between January 2023 and December 2025?
   and cooking oil.
 - 540 monthly observations covering 36 months.
 - Aggregated retail prices in AFN/kg; forecast records excluded.
+- The original source export is not included in this repository. To reproduce the analysis, obtain an export from the linked WFP dashboard using the scope described in the reproduction guide.
 
 ## Key findings
 - Rice prices increased 25.41% in Kandahar and 18.97% in Kabul
