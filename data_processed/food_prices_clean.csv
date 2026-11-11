@@ -1,0 +1,541 @@
+market,commodity,price_month,price_afn_per_kg
+Balkh,Oil (cooking),2023-01-01,134.827586
+Balkh,Oil (cooking),2023-02-01,126.956521
+Balkh,Oil (cooking),2023-03-01,128.064516
+Balkh,Oil (cooking),2023-04-01,125.000000
+Balkh,Oil (cooking),2023-05-01,120.833334
+Balkh,Oil (cooking),2023-06-01,110.666666
+Balkh,Oil (cooking),2023-07-01,110.161290
+Balkh,Oil (cooking),2023-08-01,115.000000
+Balkh,Oil (cooking),2023-09-01,110.666667
+Balkh,Oil (cooking),2023-10-01,96.551723
+Balkh,Oil (cooking),2023-11-01,92.800000
+Balkh,Oil (cooking),2023-12-01,90.000000
+Balkh,Oil (cooking),2024-01-01,90.000000
+Balkh,Oil (cooking),2024-02-01,89.200000
+Balkh,Oil (cooking),2024-03-01,91.774194
+Balkh,Oil (cooking),2024-04-01,95.000000
+Balkh,Oil (cooking),2024-05-01,95.000000
+Balkh,Oil (cooking),2024-06-01,95.000000
+Balkh,Oil (cooking),2024-07-01,95.000000
+Balkh,Oil (cooking),2024-08-01,96.111110
+Balkh,Oil (cooking),2024-09-01,100.000000
+Balkh,Oil (cooking),2024-10-01,107.199999
+Balkh,Oil (cooking),2024-11-01,116.833334
+Balkh,Oil (cooking),2024-12-01,119.827586
+Balkh,Oil (cooking),2025-01-01,120.961537
+Balkh,Oil (cooking),2025-02-01,116.964285
+Balkh,Oil (cooking),2025-03-01,115.000000
+Balkh,Oil (cooking),2025-04-01,115.000000
+Balkh,Oil (cooking),2025-05-01,111.774193
+Balkh,Oil (cooking),2025-06-01,114.827586
+Balkh,Oil (cooking),2025-07-01,115.000000
+Balkh,Oil (cooking),2025-08-01,111.612902
+Balkh,Oil (cooking),2025-09-01,110.000000
+Balkh,Oil (cooking),2025-10-01,110.000000
+Balkh,Oil (cooking),2025-11-01,116.533333
+Balkh,Oil (cooking),2025-12-01,128.750000
+Balkh,Rice (low quality),2023-01-01,70.000000
+Balkh,Rice (low quality),2023-02-01,70.000000
+Balkh,Rice (low quality),2023-03-01,68.064516
+Balkh,Rice (low quality),2023-04-01,65.000000
+Balkh,Rice (low quality),2023-05-01,65.000000
+Balkh,Rice (low quality),2023-06-01,65.000000
+Balkh,Rice (low quality),2023-07-01,65.000000
+Balkh,Rice (low quality),2023-08-01,65.000000
+Balkh,Rice (low quality),2023-09-01,65.000000
+Balkh,Rice (low quality),2023-10-01,64.517241
+Balkh,Rice (low quality),2023-11-01,60.000000
+Balkh,Rice (low quality),2023-12-01,60.000000
+Balkh,Rice (low quality),2024-01-01,60.000000
+Balkh,Rice (low quality),2024-02-01,60.000000
+Balkh,Rice (low quality),2024-03-01,60.000000
+Balkh,Rice (low quality),2024-04-01,60.000000
+Balkh,Rice (low quality),2024-05-01,60.000000
+Balkh,Rice (low quality),2024-06-01,56.499999
+Balkh,Rice (low quality),2024-07-01,55.000000
+Balkh,Rice (low quality),2024-08-01,58.703703
+Balkh,Rice (low quality),2024-09-01,60.000000
+Balkh,Rice (low quality),2024-10-01,60.000000
+Balkh,Rice (low quality),2024-11-01,59.000000
+Balkh,Rice (low quality),2024-12-01,55.000000
+Balkh,Rice (low quality),2025-01-01,55.961537
+Balkh,Rice (low quality),2025-02-01,55.357142
+Balkh,Rice (low quality),2025-03-01,55.000000
+Balkh,Rice (low quality),2025-04-01,55.000000
+Balkh,Rice (low quality),2025-05-01,55.000000
+Balkh,Rice (low quality),2025-06-01,55.000000
+Balkh,Rice (low quality),2025-07-01,55.000000
+Balkh,Rice (low quality),2025-08-01,55.000000
+Balkh,Rice (low quality),2025-09-01,55.000000
+Balkh,Rice (low quality),2025-10-01,56.935483
+Balkh,Rice (low quality),2025-11-01,58.833333
+Balkh,Rice (low quality),2025-12-01,60.000000
+Balkh,Wheat flour (low quality),2023-01-01,43.551724
+Balkh,Wheat flour (low quality),2023-02-01,41.826087
+Balkh,Wheat flour (low quality),2023-03-01,37.774193
+Balkh,Wheat flour (low quality),2023-04-01,34.599999
+Balkh,Wheat flour (low quality),2023-05-01,33.291666
+Balkh,Wheat flour (low quality),2023-06-01,32.133333
+Balkh,Wheat flour (low quality),2023-07-01,32.000000
+Balkh,Wheat flour (low quality),2023-08-01,31.666666
+Balkh,Wheat flour (low quality),2023-09-01,30.166666
+Balkh,Wheat flour (low quality),2023-10-01,27.655172
+Balkh,Wheat flour (low quality),2023-11-01,25.280000
+Balkh,Wheat flour (low quality),2023-12-01,25.000000
+Balkh,Wheat flour (low quality),2024-01-01,25.000000
+Balkh,Wheat flour (low quality),2024-02-01,26.159999
+Balkh,Wheat flour (low quality),2024-03-01,25.645161
+Balkh,Wheat flour (low quality),2024-04-01,25.000000
+Balkh,Wheat flour (low quality),2024-05-01,25.000000
+Balkh,Wheat flour (low quality),2024-06-01,25.000000
+Balkh,Wheat flour (low quality),2024-07-01,25.000000
+Balkh,Wheat flour (low quality),2024-08-01,25.740740
+Balkh,Wheat flour (low quality),2024-09-01,25.681818
+Balkh,Wheat flour (low quality),2024-10-01,24.280000
+Balkh,Wheat flour (low quality),2024-11-01,24.000000
+Balkh,Wheat flour (low quality),2024-12-01,24.965517
+Balkh,Wheat flour (low quality),2025-01-01,25.192307
+Balkh,Wheat flour (low quality),2025-02-01,25.071428
+Balkh,Wheat flour (low quality),2025-03-01,24.533333
+Balkh,Wheat flour (low quality),2025-04-01,24.000000
+Balkh,Wheat flour (low quality),2025-05-01,24.000000
+Balkh,Wheat flour (low quality),2025-06-01,24.482758
+Balkh,Wheat flour (low quality),2025-07-01,24.159999
+Balkh,Wheat flour (low quality),2025-08-01,25.000000
+Balkh,Wheat flour (low quality),2025-09-01,24.875000
+Balkh,Wheat flour (low quality),2025-10-01,24.000000
+Balkh,Wheat flour (low quality),2025-11-01,25.166666
+Balkh,Wheat flour (low quality),2025-12-01,26.000000
+Hirat,Oil (cooking),2023-01-01,158.206896
+Hirat,Oil (cooking),2023-02-01,147.608696
+Hirat,Oil (cooking),2023-03-01,128.225806
+Hirat,Oil (cooking),2023-04-01,112.499999
+Hirat,Oil (cooking),2023-05-01,110.208333
+Hirat,Oil (cooking),2023-06-01,100.933332
+Hirat,Oil (cooking),2023-07-01,104.677419
+Hirat,Oil (cooking),2023-08-01,103.583333
+Hirat,Oil (cooking),2023-09-01,94.166666
+Hirat,Oil (cooking),2023-10-01,92.758620
+Hirat,Oil (cooking),2023-11-01,87.400000
+Hirat,Oil (cooking),2023-12-01,83.064515
+Hirat,Oil (cooking),2024-01-01,85.250000
+Hirat,Oil (cooking),2024-02-01,89.280000
+Hirat,Oil (cooking),2024-03-01,90.129032
+Hirat,Oil (cooking),2024-04-01,91.695652
+Hirat,Oil (cooking),2024-05-01,89.096773
+Hirat,Oil (cooking),2024-06-01,91.033333
+Hirat,Oil (cooking),2024-07-01,94.500000
+Hirat,Oil (cooking),2024-08-01,93.000000
+Hirat,Oil (cooking),2024-09-01,93.000000
+Hirat,Oil (cooking),2024-10-01,99.800000
+Hirat,Oil (cooking),2024-11-01,107.800000
+Hirat,Oil (cooking),2024-12-01,118.413793
+Hirat,Oil (cooking),2025-01-01,113.076923
+Hirat,Oil (cooking),2025-02-01,116.928571
+Hirat,Oil (cooking),2025-03-01,122.100000
+Hirat,Oil (cooking),2025-04-01,119.416666
+Hirat,Oil (cooking),2025-05-01,117.451613
+Hirat,Oil (cooking),2025-06-01,117.172413
+Hirat,Oil (cooking),2025-07-01,115.600000
+Hirat,Oil (cooking),2025-08-01,110.000000
+Hirat,Oil (cooking),2025-09-01,110.000000
+Hirat,Oil (cooking),2025-10-01,110.000000
+Hirat,Oil (cooking),2025-11-01,112.333333
+Hirat,Oil (cooking),2025-12-01,125.000000
+Hirat,Rice (low quality),2023-01-01,77.137931
+Hirat,Rice (low quality),2023-02-01,82.130434
+Hirat,Rice (low quality),2023-03-01,75.806451
+Hirat,Rice (low quality),2023-04-01,72.899999
+Hirat,Rice (low quality),2023-05-01,69.166666
+Hirat,Rice (low quality),2023-06-01,65.399999
+Hirat,Rice (low quality),2023-07-01,64.322580
+Hirat,Rice (low quality),2023-08-01,62.041666
+Hirat,Rice (low quality),2023-09-01,58.666666
+Hirat,Rice (low quality),2023-10-01,57.586206
+Hirat,Rice (low quality),2023-11-01,51.960000
+Hirat,Rice (low quality),2023-12-01,50.225806
+Hirat,Rice (low quality),2024-01-01,52.250000
+Hirat,Rice (low quality),2024-02-01,54.719999
+Hirat,Rice (low quality),2024-03-01,55.000000
+Hirat,Rice (low quality),2024-04-01,55.000000
+Hirat,Rice (low quality),2024-05-01,53.774193
+Hirat,Rice (low quality),2024-06-01,52.533333
+Hirat,Rice (low quality),2024-07-01,51.000000
+Hirat,Rice (low quality),2024-08-01,50.259259
+Hirat,Rice (low quality),2024-09-01,50.000000
+Hirat,Rice (low quality),2024-10-01,48.680000
+Hirat,Rice (low quality),2024-11-01,47.000000
+Hirat,Rice (low quality),2024-12-01,48.448275
+Hirat,Rice (low quality),2025-01-01,52.000000
+Hirat,Rice (low quality),2025-02-01,53.285714
+Hirat,Rice (low quality),2025-03-01,55.000000
+Hirat,Rice (low quality),2025-04-01,55.000000
+Hirat,Rice (low quality),2025-05-01,55.645161
+Hirat,Rice (low quality),2025-06-01,57.931034
+Hirat,Rice (low quality),2025-07-01,58.879999
+Hirat,Rice (low quality),2025-08-01,54.580644
+Hirat,Rice (low quality),2025-09-01,50.000000
+Hirat,Rice (low quality),2025-10-01,50.000000
+Hirat,Rice (low quality),2025-11-01,53.500000
+Hirat,Rice (low quality),2025-12-01,56.750000
+Hirat,Wheat flour (low quality),2023-01-01,41.000000
+Hirat,Wheat flour (low quality),2023-02-01,39.695652
+Hirat,Wheat flour (low quality),2023-03-01,37.161290
+Hirat,Wheat flour (low quality),2023-04-01,33.833333
+Hirat,Wheat flour (low quality),2023-05-01,33.625000
+Hirat,Wheat flour (low quality),2023-06-01,29.966666
+Hirat,Wheat flour (low quality),2023-07-01,29.032258
+Hirat,Wheat flour (low quality),2023-08-01,29.541666
+Hirat,Wheat flour (low quality),2023-09-01,29.633333
+Hirat,Wheat flour (low quality),2023-10-01,29.310344
+Hirat,Wheat flour (low quality),2023-11-01,27.840000
+Hirat,Wheat flour (low quality),2023-12-01,26.774193
+Hirat,Wheat flour (low quality),2024-01-01,26.250000
+Hirat,Wheat flour (low quality),2024-02-01,27.000000
+Hirat,Wheat flour (low quality),2024-03-01,27.000000
+Hirat,Wheat flour (low quality),2024-04-01,27.000000
+Hirat,Wheat flour (low quality),2024-05-01,25.612903
+Hirat,Wheat flour (low quality),2024-06-01,22.599999
+Hirat,Wheat flour (low quality),2024-07-01,24.000000
+Hirat,Wheat flour (low quality),2024-08-01,24.444444
+Hirat,Wheat flour (low quality),2024-09-01,25.045454
+Hirat,Wheat flour (low quality),2024-10-01,23.560000
+Hirat,Wheat flour (low quality),2024-11-01,23.000000
+Hirat,Wheat flour (low quality),2024-12-01,23.724137
+Hirat,Wheat flour (low quality),2025-01-01,24.846153
+Hirat,Wheat flour (low quality),2025-02-01,25.321428
+Hirat,Wheat flour (low quality),2025-03-01,26.233333
+Hirat,Wheat flour (low quality),2025-04-01,26.000000
+Hirat,Wheat flour (low quality),2025-05-01,25.354838
+Hirat,Wheat flour (low quality),2025-06-01,25.724137
+Hirat,Wheat flour (low quality),2025-07-01,26.319999
+Hirat,Wheat flour (low quality),2025-08-01,25.741935
+Hirat,Wheat flour (low quality),2025-09-01,25.000000
+Hirat,Wheat flour (low quality),2025-10-01,26.612903
+Hirat,Wheat flour (low quality),2025-11-01,29.866666
+Hirat,Wheat flour (low quality),2025-12-01,31.000000
+Kabul,Oil (cooking),2023-01-01,151.724138
+Kabul,Oil (cooking),2023-02-01,159.565217
+Kabul,Oil (cooking),2023-03-01,147.290322
+Kabul,Oil (cooking),2023-04-01,133.799999
+Kabul,Oil (cooking),2023-05-01,117.916667
+Kabul,Oil (cooking),2023-06-01,114.933333
+Kabul,Oil (cooking),2023-07-01,110.903225
+Kabul,Oil (cooking),2023-08-01,109.958333
+Kabul,Oil (cooking),2023-09-01,105.833332
+Kabul,Oil (cooking),2023-10-01,107.758620
+Kabul,Oil (cooking),2023-11-01,103.760000
+Kabul,Oil (cooking),2023-12-01,100.806451
+Kabul,Oil (cooking),2024-01-01,100.000000
+Kabul,Oil (cooking),2024-02-01,100.599999
+Kabul,Oil (cooking),2024-03-01,99.290322
+Kabul,Oil (cooking),2024-04-01,94.652174
+Kabul,Oil (cooking),2024-05-01,89.387096
+Kabul,Oil (cooking),2024-06-01,87.766666
+Kabul,Oil (cooking),2024-07-01,90.000000
+Kabul,Oil (cooking),2024-08-01,93.518518
+Kabul,Oil (cooking),2024-09-01,95.227272
+Kabul,Oil (cooking),2024-10-01,94.159999
+Kabul,Oil (cooking),2024-11-01,96.766666
+Kabul,Oil (cooking),2024-12-01,99.448275
+Kabul,Oil (cooking),2025-01-01,101.461538
+Kabul,Oil (cooking),2025-02-01,101.499999
+Kabul,Oil (cooking),2025-03-01,105.733333
+Kabul,Oil (cooking),2025-04-01,113.416666
+Kabul,Oil (cooking),2025-05-01,113.000000
+Kabul,Oil (cooking),2025-06-01,112.413793
+Kabul,Oil (cooking),2025-07-01,115.680000
+Kabul,Oil (cooking),2025-08-01,113.322580
+Kabul,Oil (cooking),2025-09-01,113.312500
+Kabul,Oil (cooking),2025-10-01,112.483870
+Kabul,Oil (cooking),2025-11-01,117.333333
+Kabul,Oil (cooking),2025-12-01,123.750000
+Kabul,Rice (low quality),2023-01-01,69.344827
+Kabul,Rice (low quality),2023-02-01,80.217391
+Kabul,Rice (low quality),2023-03-01,74.774192
+Kabul,Rice (low quality),2023-04-01,78.933333
+Kabul,Rice (low quality),2023-05-01,72.083332
+Kabul,Rice (low quality),2023-06-01,75.000000
+Kabul,Rice (low quality),2023-07-01,75.000000
+Kabul,Rice (low quality),2023-08-01,75.000000
+Kabul,Rice (low quality),2023-09-01,75.000000
+Kabul,Rice (low quality),2023-10-01,75.000000
+Kabul,Rice (low quality),2023-11-01,75.000000
+Kabul,Rice (low quality),2023-12-01,75.000000
+Kabul,Rice (low quality),2024-01-01,75.000000
+Kabul,Rice (low quality),2024-02-01,75.000000
+Kabul,Rice (low quality),2024-03-01,72.967741
+Kabul,Rice (low quality),2024-04-01,72.913043
+Kabul,Rice (low quality),2024-05-01,72.000000
+Kabul,Rice (low quality),2024-06-01,72.000000
+Kabul,Rice (low quality),2024-07-01,70.750000
+Kabul,Rice (low quality),2024-08-01,70.000000
+Kabul,Rice (low quality),2024-09-01,70.000000
+Kabul,Rice (low quality),2024-10-01,73.439999
+Kabul,Rice (low quality),2024-11-01,73.600000
+Kabul,Rice (low quality),2024-12-01,70.793103
+Kabul,Rice (low quality),2025-01-01,68.000000
+Kabul,Rice (low quality),2025-02-01,68.000000
+Kabul,Rice (low quality),2025-03-01,70.566666
+Kabul,Rice (low quality),2025-04-01,70.000000
+Kabul,Rice (low quality),2025-05-01,70.000000
+Kabul,Rice (low quality),2025-06-01,70.000000
+Kabul,Rice (low quality),2025-07-01,70.000000
+Kabul,Rice (low quality),2025-08-01,70.000000
+Kabul,Rice (low quality),2025-09-01,70.000000
+Kabul,Rice (low quality),2025-10-01,70.000000
+Kabul,Rice (low quality),2025-11-01,74.666666
+Kabul,Rice (low quality),2025-12-01,82.500000
+Kabul,Wheat flour (low quality),2023-01-01,42.275862
+Kabul,Wheat flour (low quality),2023-02-01,41.913043
+Kabul,Wheat flour (low quality),2023-03-01,37.322580
+Kabul,Wheat flour (low quality),2023-04-01,35.000000
+Kabul,Wheat flour (low quality),2023-05-01,34.875000
+Kabul,Wheat flour (low quality),2023-06-01,30.999999
+Kabul,Wheat flour (low quality),2023-07-01,30.935483
+Kabul,Wheat flour (low quality),2023-08-01,30.541666
+Kabul,Wheat flour (low quality),2023-09-01,31.333333
+Kabul,Wheat flour (low quality),2023-10-01,32.000000
+Kabul,Wheat flour (low quality),2023-11-01,31.840000
+Kabul,Wheat flour (low quality),2023-12-01,30.322580
+Kabul,Wheat flour (low quality),2024-01-01,30.000000
+Kabul,Wheat flour (low quality),2024-02-01,30.000000
+Kabul,Wheat flour (low quality),2024-03-01,30.000000
+Kabul,Wheat flour (low quality),2024-04-01,30.000000
+Kabul,Wheat flour (low quality),2024-05-01,30.000000
+Kabul,Wheat flour (low quality),2024-06-01,30.000000
+Kabul,Wheat flour (low quality),2024-07-01,30.000000
+Kabul,Wheat flour (low quality),2024-08-01,30.000000
+Kabul,Wheat flour (low quality),2024-09-01,30.000000
+Kabul,Wheat flour (low quality),2024-10-01,30.000000
+Kabul,Wheat flour (low quality),2024-11-01,30.000000
+Kabul,Wheat flour (low quality),2024-12-01,30.000000
+Kabul,Wheat flour (low quality),2025-01-01,30.000000
+Kabul,Wheat flour (low quality),2025-02-01,28.642857
+Kabul,Wheat flour (low quality),2025-03-01,25.433333
+Kabul,Wheat flour (low quality),2025-04-01,25.291666
+Kabul,Wheat flour (low quality),2025-05-01,25.000000
+Kabul,Wheat flour (low quality),2025-06-01,25.482758
+Kabul,Wheat flour (low quality),2025-07-01,26.439999
+Kabul,Wheat flour (low quality),2025-08-01,26.096774
+Kabul,Wheat flour (low quality),2025-09-01,25.000000
+Kabul,Wheat flour (low quality),2025-10-01,25.322580
+Kabul,Wheat flour (low quality),2025-11-01,27.466666
+Kabul,Wheat flour (low quality),2025-12-01,29.000000
+Kandahar,Oil (cooking),2023-01-01,152.655171
+Kandahar,Oil (cooking),2023-02-01,142.130433
+Kandahar,Oil (cooking),2023-03-01,153.838709
+Kandahar,Oil (cooking),2023-04-01,145.533332
+Kandahar,Oil (cooking),2023-05-01,115.000000
+Kandahar,Oil (cooking),2023-06-01,106.133333
+Kandahar,Oil (cooking),2023-07-01,98.935483
+Kandahar,Oil (cooking),2023-08-01,99.833332
+Kandahar,Oil (cooking),2023-09-01,107.800000
+Kandahar,Oil (cooking),2023-10-01,77.344826
+Kandahar,Oil (cooking),2023-11-01,91.480000
+Kandahar,Oil (cooking),2023-12-01,93.774194
+Kandahar,Oil (cooking),2024-01-01,96.000000
+Kandahar,Oil (cooking),2024-02-01,94.400000
+Kandahar,Oil (cooking),2024-03-01,94.806451
+Kandahar,Oil (cooking),2024-04-01,96.173912
+Kandahar,Oil (cooking),2024-05-01,90.806451
+Kandahar,Oil (cooking),2024-06-01,86.066666
+Kandahar,Oil (cooking),2024-07-01,87.250000
+Kandahar,Oil (cooking),2024-08-01,87.740740
+Kandahar,Oil (cooking),2024-09-01,88.318181
+Kandahar,Oil (cooking),2024-10-01,104.359999
+Kandahar,Oil (cooking),2024-11-01,113.733334
+Kandahar,Oil (cooking),2024-12-01,116.551724
+Kandahar,Oil (cooking),2025-01-01,119.192306
+Kandahar,Oil (cooking),2025-02-01,120.392857
+Kandahar,Oil (cooking),2025-03-01,116.833333
+Kandahar,Oil (cooking),2025-04-01,112.875000
+Kandahar,Oil (cooking),2025-05-01,103.225806
+Kandahar,Oil (cooking),2025-06-01,105.931034
+Kandahar,Oil (cooking),2025-07-01,108.879999
+Kandahar,Oil (cooking),2025-08-01,107.516128
+Kandahar,Oil (cooking),2025-09-01,106.499999
+Kandahar,Oil (cooking),2025-10-01,110.774193
+Kandahar,Oil (cooking),2025-11-01,114.800000
+Kandahar,Oil (cooking),2025-12-01,117.750000
+Kandahar,Rice (low quality),2023-01-01,41.862069
+Kandahar,Rice (low quality),2023-02-01,48.869564
+Kandahar,Rice (low quality),2023-03-01,56.548386
+Kandahar,Rice (low quality),2023-04-01,55.299999
+Kandahar,Rice (low quality),2023-05-01,54.583333
+Kandahar,Rice (low quality),2023-06-01,50.833333
+Kandahar,Rice (low quality),2023-07-01,57.000000
+Kandahar,Rice (low quality),2023-08-01,51.666666
+Kandahar,Rice (low quality),2023-09-01,46.799999
+Kandahar,Rice (low quality),2023-10-01,48.724137
+Kandahar,Rice (low quality),2023-11-01,45.520000
+Kandahar,Rice (low quality),2023-12-01,41.870967
+Kandahar,Rice (low quality),2024-01-01,45.250000
+Kandahar,Rice (low quality),2024-02-01,48.719999
+Kandahar,Rice (low quality),2024-03-01,49.903225
+Kandahar,Rice (low quality),2024-04-01,48.130434
+Kandahar,Rice (low quality),2024-05-01,46.000000
+Kandahar,Rice (low quality),2024-06-01,45.766666
+Kandahar,Rice (low quality),2024-07-01,48.000000
+Kandahar,Rice (low quality),2024-08-01,49.481481
+Kandahar,Rice (low quality),2024-09-01,47.772727
+Kandahar,Rice (low quality),2024-10-01,42.759999
+Kandahar,Rice (low quality),2024-11-01,43.300000
+Kandahar,Rice (low quality),2024-12-01,39.034482
+Kandahar,Rice (low quality),2025-01-01,43.961537
+Kandahar,Rice (low quality),2025-02-01,43.928571
+Kandahar,Rice (low quality),2025-03-01,43.633333
+Kandahar,Rice (low quality),2025-04-01,44.333333
+Kandahar,Rice (low quality),2025-05-01,44.806451
+Kandahar,Rice (low quality),2025-06-01,44.068965
+Kandahar,Rice (low quality),2025-07-01,40.240000
+Kandahar,Rice (low quality),2025-08-01,36.193548
+Kandahar,Rice (low quality),2025-09-01,36.625000
+Kandahar,Rice (low quality),2025-10-01,34.225806
+Kandahar,Rice (low quality),2025-11-01,38.666666
+Kandahar,Rice (low quality),2025-12-01,52.500000
+Kandahar,Wheat flour (low quality),2023-01-01,43.068965
+Kandahar,Wheat flour (low quality),2023-02-01,43.043477
+Kandahar,Wheat flour (low quality),2023-03-01,45.451613
+Kandahar,Wheat flour (low quality),2023-04-01,39.266666
+Kandahar,Wheat flour (low quality),2023-05-01,32.708333
+Kandahar,Wheat flour (low quality),2023-06-01,30.233333
+Kandahar,Wheat flour (low quality),2023-07-01,28.838709
+Kandahar,Wheat flour (low quality),2023-08-01,30.583332
+Kandahar,Wheat flour (low quality),2023-09-01,30.299999
+Kandahar,Wheat flour (low quality),2023-10-01,32.068965
+Kandahar,Wheat flour (low quality),2023-11-01,30.240000
+Kandahar,Wheat flour (low quality),2023-12-01,27.774193
+Kandahar,Wheat flour (low quality),2024-01-01,28.500000
+Kandahar,Wheat flour (low quality),2024-02-01,29.560000
+Kandahar,Wheat flour (low quality),2024-03-01,28.096774
+Kandahar,Wheat flour (low quality),2024-04-01,27.391304
+Kandahar,Wheat flour (low quality),2024-05-01,25.935483
+Kandahar,Wheat flour (low quality),2024-06-01,24.766666
+Kandahar,Wheat flour (low quality),2024-07-01,23.500000
+Kandahar,Wheat flour (low quality),2024-08-01,24.962962
+Kandahar,Wheat flour (low quality),2024-09-01,26.318181
+Kandahar,Wheat flour (low quality),2024-10-01,26.439999
+Kandahar,Wheat flour (low quality),2024-11-01,27.000000
+Kandahar,Wheat flour (low quality),2024-12-01,27.482758
+Kandahar,Wheat flour (low quality),2025-01-01,29.000000
+Kandahar,Wheat flour (low quality),2025-02-01,28.321428
+Kandahar,Wheat flour (low quality),2025-03-01,28.700000
+Kandahar,Wheat flour (low quality),2025-04-01,27.000000
+Kandahar,Wheat flour (low quality),2025-05-01,25.290322
+Kandahar,Wheat flour (low quality),2025-06-01,26.413793
+Kandahar,Wheat flour (low quality),2025-07-01,28.280000
+Kandahar,Wheat flour (low quality),2025-08-01,27.322580
+Kandahar,Wheat flour (low quality),2025-09-01,26.812499
+Kandahar,Wheat flour (low quality),2025-10-01,28.935483
+Kandahar,Wheat flour (low quality),2025-11-01,30.933333
+Kandahar,Wheat flour (low quality),2025-12-01,31.500000
+Nangarhar,Oil (cooking),2023-01-01,106.931034
+Nangarhar,Oil (cooking),2023-02-01,104.000000
+Nangarhar,Oil (cooking),2023-03-01,108.387097
+Nangarhar,Oil (cooking),2023-04-01,102.266666
+Nangarhar,Oil (cooking),2023-05-01,103.416666
+Nangarhar,Oil (cooking),2023-06-01,95.466666
+Nangarhar,Oil (cooking),2023-07-01,90.322580
+Nangarhar,Oil (cooking),2023-08-01,91.958334
+Nangarhar,Oil (cooking),2023-09-01,86.733333
+Nangarhar,Oil (cooking),2023-10-01,93.724138
+Nangarhar,Oil (cooking),2023-11-01,80.039999
+Nangarhar,Oil (cooking),2023-12-01,80.419354
+Nangarhar,Oil (cooking),2024-01-01,75.750000
+Nangarhar,Oil (cooking),2024-02-01,79.879999
+Nangarhar,Oil (cooking),2024-03-01,84.612903
+Nangarhar,Oil (cooking),2024-04-01,84.608695
+Nangarhar,Oil (cooking),2024-05-01,81.806451
+Nangarhar,Oil (cooking),2024-06-01,85.566666
+Nangarhar,Oil (cooking),2024-07-01,88.000000
+Nangarhar,Oil (cooking),2024-08-01,86.740740
+Nangarhar,Oil (cooking),2024-09-01,85.409090
+Nangarhar,Oil (cooking),2024-10-01,85.199999
+Nangarhar,Oil (cooking),2024-11-01,92.199999
+Nangarhar,Oil (cooking),2024-12-01,97.655172
+Nangarhar,Oil (cooking),2025-01-01,104.499999
+Nangarhar,Oil (cooking),2025-02-01,108.857142
+Nangarhar,Oil (cooking),2025-03-01,113.266666
+Nangarhar,Oil (cooking),2025-04-01,111.458333
+Nangarhar,Oil (cooking),2025-05-01,109.032258
+Nangarhar,Oil (cooking),2025-06-01,106.931034
+Nangarhar,Oil (cooking),2025-07-01,109.760000
+Nangarhar,Oil (cooking),2025-08-01,101.612902
+Nangarhar,Oil (cooking),2025-09-01,100.000000
+Nangarhar,Oil (cooking),2025-10-01,100.774193
+Nangarhar,Oil (cooking),2025-11-01,105.966666
+Nangarhar,Oil (cooking),2025-12-01,114.750000
+Nangarhar,Rice (low quality),2023-01-01,45.482758
+Nangarhar,Rice (low quality),2023-02-01,47.000000
+Nangarhar,Rice (low quality),2023-03-01,48.677419
+Nangarhar,Rice (low quality),2023-04-01,49.000000
+Nangarhar,Rice (low quality),2023-05-01,49.000000
+Nangarhar,Rice (low quality),2023-06-01,45.999999
+Nangarhar,Rice (low quality),2023-07-01,43.258064
+Nangarhar,Rice (low quality),2023-08-01,47.750001
+Nangarhar,Rice (low quality),2023-09-01,47.299999
+Nangarhar,Rice (low quality),2023-10-01,50.655172
+Nangarhar,Rice (low quality),2023-11-01,48.360000
+Nangarhar,Rice (low quality),2023-12-01,42.741935
+Nangarhar,Rice (low quality),2024-01-01,42.250000
+Nangarhar,Rice (low quality),2024-02-01,45.560000
+Nangarhar,Rice (low quality),2024-03-01,45.677419
+Nangarhar,Rice (low quality),2024-04-01,46.782608
+Nangarhar,Rice (low quality),2024-05-01,45.806451
+Nangarhar,Rice (low quality),2024-06-01,45.599999
+Nangarhar,Rice (low quality),2024-07-01,46.250000
+Nangarhar,Rice (low quality),2024-08-01,50.444444
+Nangarhar,Rice (low quality),2024-09-01,51.681818
+Nangarhar,Rice (low quality),2024-10-01,50.319999
+Nangarhar,Rice (low quality),2024-11-01,55.366666
+Nangarhar,Rice (low quality),2024-12-01,56.482758
+Nangarhar,Rice (low quality),2025-01-01,55.269230
+Nangarhar,Rice (low quality),2025-02-01,55.250000
+Nangarhar,Rice (low quality),2025-03-01,55.000000
+Nangarhar,Rice (low quality),2025-04-01,56.499999
+Nangarhar,Rice (low quality),2025-05-01,54.999999
+Nangarhar,Rice (low quality),2025-06-01,50.620689
+Nangarhar,Rice (low quality),2025-07-01,50.000000
+Nangarhar,Rice (low quality),2025-08-01,44.354838
+Nangarhar,Rice (low quality),2025-09-01,47.187500
+Nangarhar,Rice (low quality),2025-10-01,44.387096
+Nangarhar,Rice (low quality),2025-11-01,44.466666
+Nangarhar,Rice (low quality),2025-12-01,45.000000
+Nangarhar,Wheat flour (low quality),2023-01-01,38.517241
+Nangarhar,Wheat flour (low quality),2023-02-01,38.913043
+Nangarhar,Wheat flour (low quality),2023-03-01,38.000000
+Nangarhar,Wheat flour (low quality),2023-04-01,37.766666
+Nangarhar,Wheat flour (low quality),2023-05-01,38.416666
+Nangarhar,Wheat flour (low quality),2023-06-01,29.233332
+Nangarhar,Wheat flour (low quality),2023-07-01,26.290322
+Nangarhar,Wheat flour (low quality),2023-08-01,28.791667
+Nangarhar,Wheat flour (low quality),2023-09-01,29.299999
+Nangarhar,Wheat flour (low quality),2023-10-01,29.517241
+Nangarhar,Wheat flour (low quality),2023-11-01,29.560000
+Nangarhar,Wheat flour (low quality),2023-12-01,29.225806
+Nangarhar,Wheat flour (low quality),2024-01-01,29.500000
+Nangarhar,Wheat flour (low quality),2024-02-01,29.719999
+Nangarhar,Wheat flour (low quality),2024-03-01,29.548387
+Nangarhar,Wheat flour (low quality),2024-04-01,28.608695
+Nangarhar,Wheat flour (low quality),2024-05-01,25.322580
+Nangarhar,Wheat flour (low quality),2024-06-01,25.400000
+Nangarhar,Wheat flour (low quality),2024-07-01,27.000000
+Nangarhar,Wheat flour (low quality),2024-08-01,26.777777
+Nangarhar,Wheat flour (low quality),2024-09-01,26.318181
+Nangarhar,Wheat flour (low quality),2024-10-01,25.000000
+Nangarhar,Wheat flour (low quality),2024-11-01,25.900000
+Nangarhar,Wheat flour (low quality),2024-12-01,26.965517
+Nangarhar,Wheat flour (low quality),2025-01-01,27.538461
+Nangarhar,Wheat flour (low quality),2025-02-01,26.071428
+Nangarhar,Wheat flour (low quality),2025-03-01,26.933333
+Nangarhar,Wheat flour (low quality),2025-04-01,25.875000
+Nangarhar,Wheat flour (low quality),2025-05-01,24.387096
+Nangarhar,Wheat flour (low quality),2025-06-01,24.689655
+Nangarhar,Wheat flour (low quality),2025-07-01,26.719999
+Nangarhar,Wheat flour (low quality),2025-08-01,26.096774
+Nangarhar,Wheat flour (low quality),2025-09-01,26.000000
+Nangarhar,Wheat flour (low quality),2025-10-01,27.000000
+Nangarhar,Wheat flour (low quality),2025-11-01,28.233333
+Nangarhar,Wheat flour (low quality),2025-12-01,29.750000
