@@ -41,3 +41,6 @@ Scope:
 The analysis covers selected markets and commodities. It does not
 measure national inflation or household affordability, and it does
 not establish the causes of price changes.
+
+## LinkedIn post
+[View the project announcement](https://lnkd.in/p/dg9eJyj7)
